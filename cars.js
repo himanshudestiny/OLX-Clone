@@ -357,6 +357,7 @@ let cars=[
 display(cars);
 function display(cars)
 {
+    document.querySelector("#productsbox").innerHTML="";
     cars.map(function(elem)
     {
     let div=document.createElement("div");
@@ -381,3 +382,4 @@ function display(cars)
 });
 
 }
+
