@@ -1,0 +1,117 @@
+#ppp{
+    width:27%;
+    height:590px;
+    margin:auto;
+    margin-top: 80px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    
+}
+#ppp>div:nth-child(1){
+margin-left: 380px;
+font-size: 34px;
+font-weight: bold;
+}
+#ppp>div:nth-child(2){
+    width:90%;
+    height:200px;
+    margin:auto;
+    
+    position: relative;
+}
+#left{
+    position: relative;
+    top:-73%;
+    border:none;
+    background: transparent;
+    font-size: 26px;
+    color:grey;
+    right:3%;
+    cursor: pointer;
+}
+#right{
+    position: relative;
+    top:-73%;
+    left:87%;
+    border:none;
+    background: transparent;
+    font-size: 26px;
+    color:grey;
+    cursor: pointer;
+}
+#ppp>div:nth-child(3){
+    width:90%;
+    height:34px;
+    margin:auto;
+    margin-top: 10px;
+    border:2px solid black;
+    border-radius:5px;
+    font-weight: bold;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top:15px;
+    padding-left: 10px;
+    cursor: pointer;
+}
+#ppp>div:nth-child(3):hover{
+    border:5px solid black;
+    font-weight: bolder;
+}
+#ppp>div:nth-child(4){
+    width:90%;
+    height:34px;
+    margin:auto;
+    margin-top: 10px;
+    border:2px solid black;
+    border-radius:5px;
+    font-weight: bold;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top:15px;
+    padding-left: 10px;
+    cursor: pointer;
+}
+#ppp>div:nth-child(4):hover{
+    border:5px solid black;
+    font-weight: bolder;
+}
+#ppp>p:nth-child(5){
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#ppp>p:nth-child(6){
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    text-decoration: underline;
+    cursor: pointer;
+}
+#ppp>p:nth-child(7){
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    margin-top: 80px;
+}
+#ppp>p:nth-child(8){
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    color:grey;
+}
+#ppp>p>span{
+    color:rgb(60, 60, 248);
+}
+#guitar{
+    width:32%;
+    height:60%;
+    margin: auto;
+    margin-left: 140px;
+}
+#ppp>div>p{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color:grey;
+}
