@@ -435,6 +435,19 @@ function display(cars)
 
 }
 
+
+
+document.querySelector("#login").addEventListener("click", poppup);
+
+function poppup()
+{
+    let popu=document.createElement("div").id="popup";
+    document.querySelector("body").append(popu);
+}
+
+
+
+
 document.querySelector("#sort").addEventListener("change", sortFunc);
 function sortFunc()
 {

@@ -604,3 +604,12 @@ width:75%;
     opacity: 100%;
     font-weight: bold;
 }
+#popup{
+    height:500px;
+    width:30%;
+    margin:auto;
+    position:absolute;
+    top:100px;
+    z-index:100;
+    border:1px solid;
+}
